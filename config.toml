@@ -12,3 +12,6 @@ unsafe = true
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[params.reveal_hugo]
+custom_theme = "robo/robot-lung.html"
