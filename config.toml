@@ -2,7 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "reveal-hugo"
 title = "Pudenda"
-theme = "reveal-hugo"
 relativeUrls = true
 
 
