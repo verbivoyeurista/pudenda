@@ -1,8 +1,9 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Pudenda"
-relativeUrls = true
 theme = "reveal-hugo"
+relativeUrls = true
+
 
 [markup.goldmark.renderer]
 unsafe = true
