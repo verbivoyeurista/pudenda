@@ -14,6 +14,6 @@ This is my first slide.
 
 This is my second slide.
 
-- {{% fragment %}}One{{% /fragment %}}
-- {{% fragment %}}Two{{% /fragment %}}
-- {{% fragment %}}Three{{% /fragment %}}
+{{% fragment %}}One{{% /fragment %}}
+{{% fragment %}}Two{{% /fragment %}}
+{{% fragment %}}Three{{% /fragment %}}
