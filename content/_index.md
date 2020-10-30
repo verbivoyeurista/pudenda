@@ -1,11 +1,11 @@
 +++
-title = "My presentation"
+title = "Pudenda"
 outputs = ["Reveal"]
 +++
 
-# Hello world!
+# pudenda
 
-This is my first slide.
+a person's external genitals, especially a woman's—in Latin meaning ["to be ashamed of"] (https://www.nytimes.com/2020/10/26/us/childbirth-bodies-stigma-incontinence.html)
 
 ---
 
