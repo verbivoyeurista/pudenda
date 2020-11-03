@@ -12,11 +12,12 @@ a person's external genitals, especially a woman's—in Latin meaning <a href="h
 
 Maybe my second.
 
+![dd](.images/life_mag_cardigan.jpg "Tidy and tucked in, they make their wearers look like women.")
 ---
 
 And a third.
 <section data-noprocess>
-<img src="./static/images/life_mag_cardigan.jpg" alt="Tidy and tucked in, they make their wearers look like women." width="500" height="600">
+<img src=".images/life_mag_cardigan.jpg" alt="Tidy and tucked in, they make their wearers look like women." width="500" height="600">
 </section data-noprocess>
 {{% section %}}
 
