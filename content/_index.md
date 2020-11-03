@@ -16,7 +16,7 @@ Maybe my second.
 
 And a third.
 <section data-noprocess>
-<img src="./images/life_mag_cardigan.jpg" alt="Tidy and tucked in, they make their wearers look like women." width="500" height="600">
+<img src="./static/images/life_mag_cardigan.jpg" alt="Tidy and tucked in, they make their wearers look like women." width="500" height="600">
 </section data-noprocess>
 {{% section %}}
 
