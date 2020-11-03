@@ -16,7 +16,7 @@ Maybe my second.
 
 And a third.
 
-<img src="life_mag_cardigan.png" alt="Tidy and tucked in, they make their wearers look like women." width="500" height="600">
+<img src="life_mag_cardigan.jpg" alt="Tidy and tucked in, they make their wearers look like women." width="500" height="600">
 
 {{% section %}}
 
