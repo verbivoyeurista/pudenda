@@ -32,6 +32,7 @@ A polite lady must...
 ---
 
 "Be careful in conversation to avoid topics which may be supposed to have any direct reference to events or circumstances which may be painful for your companion to hear discussed."
+
 ---
 
 "Never anticipate the point or joke of any anecdote told in your presence."
