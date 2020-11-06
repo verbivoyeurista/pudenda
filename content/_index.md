@@ -47,4 +47,15 @@ A polite lady must...
 
 ---
 
-A new idea here
+What is [really going on](https://hbr.org/2013/04/for-women-leaders-likability-a), as peer reviewed studies continually find, is that high-achieving women experience social backlash because their very success – and specifically the behaviors that created that success – violates our expectations about how women are supposed to behave. Women are expected to be nice, warm, friendly, and nurturing. Thus, if a woman acts assertively or competitively, if she pushes her team to perform, if she exhibits decisive and forceful leadership, she is deviating from the social script that dictates how she “should” behave. By violating beliefs about what women are like, successful women elicit pushback from others for being insufficiently feminine and too masculine. As descriptions like “Ice Queen,” and “Ballbuster” can attest, we are deeply uncomfortable with powerful women. In fact, we often don’t really like them.
+
+---
+"She is extraordinarily nasty." - [Trump](https://www.nbcnews.com/politics/2020-election/phony-kamala-trump-campaign-responds-harris-vp-pick-n1236467)
+
+![Kamala left, Trump right](./images/tumpkamala.jpg)
+
+Also: "So angry" and "the meanest." 
+
+---
+
+![trumpt tweet:"If Hillary Clinton can't satisfy her husband what makes her think she can satisfy America?"](./images/trumptweethillary.png)
