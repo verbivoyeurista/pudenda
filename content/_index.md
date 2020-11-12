@@ -47,9 +47,11 @@ A polite lady must...
 
 ---
 
-What is [really going on](https://hbr.org/2013/04/for-women-leaders-likability-a), as peer reviewed studies continually find, is that high-achieving women experience social backlash because their very success – and specifically the behaviors that created that success – violates our expectations about how women are supposed to behave. Women are expected to be nice, warm, friendly, and nurturing. 
+High-achieving women experience social backlash because their very success – and specifically the behaviors that created that success – violates our expectations about how women are supposed to behave. Women are expected to be nice, warm, friendly, and nurturing. 
  
 As descriptions like “Ice Queen,” and “Ballbuster” can attest, we are deeply uncomfortable with powerful women. In fact, we often don’t really like them.
+
+[Harvard Business Review](https://hbr.org/2013/04/for-women-leaders-likability-a)
 
 ---
 
@@ -77,6 +79,7 @@ What if you, [like me](https://www.nytimes.com/2019/08/27/us/likability-penalty.
 {{% /section %}}
 
 ---
+{{% section %}}
 
 It’s a concrete [fact](https://hbr.org/2018/06/research-women-ask-for-raises-as-often-as-men-but-are-less-likely-to-get-them#:~:text=The%20true%20gender%20pay%2Dgap,likely%20to%20negotiate%20their%20salaries) that women earn less than men do. The true gender pay-gap is not known with certainty, but, when comparing equally qualified people doing the same job, most estimates by labor economists put it at 10% – 20%. 
 
@@ -86,6 +89,7 @@ Women who [initiate negotiations](https://gap.hks.harvard.edu/social-incentives-
 
 ![Gif animation of woman blowing dollar sign balloon as other dollar signs float up](./images/negotaitespot.gif)
 
+{{ /% section %}}
 ---
 
 ![Photo of sportscast anchor Dale Hansen on set at ABC news](./images/DaleHansen.jpeg)
