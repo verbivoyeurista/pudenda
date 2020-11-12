@@ -46,6 +46,11 @@ A polite lady must...
 {{% /section %}}
 
 ---
+# Bitch
+
+literally meaning a female dog, a pejorative slang word for a person — usually a woman — who is belligerent, unreasonable, malicious, controlling, aggressive, or dominant. When applied to a man, bitch reverses its meaning and is a derogatory term for a subordinate, weak, or cowardly man.
+
+---
 
 High-achieving women experience social backlash because their very success – and specifically the behaviors that created that success – violates our expectations about how women are supposed to behave. Women are expected to be nice, warm, friendly, and nurturing. 
  
