@@ -47,7 +47,9 @@ A polite lady must...
 
 ---
 
-What is [really going on](https://hbr.org/2013/04/for-women-leaders-likability-a), as peer reviewed studies continually find, is that high-achieving women experience social backlash because their very success – and specifically the behaviors that created that success – violates our expectations about how women are supposed to behave. Women are expected to be nice, warm, friendly, and nurturing. Thus, if a woman acts assertively or competitively, if she pushes her team to perform, if she exhibits decisive and forceful leadership, she is deviating from the social script that dictates how she “should” behave. By violating beliefs about what women are like, successful women elicit pushback from others for being insufficiently feminine and too masculine. As descriptions like “Ice Queen,” and “Ballbuster” can attest, we are deeply uncomfortable with powerful women. In fact, we often don’t really like them.
+What is [really going on](https://hbr.org/2013/04/for-women-leaders-likability-a), as peer reviewed studies continually find, is that high-achieving women experience social backlash because their very success – and specifically the behaviors that created that success – violates our expectations about how women are supposed to behave. Women are expected to be nice, warm, friendly, and nurturing. 
+ 
+As descriptions like “Ice Queen,” and “Ballbuster” can attest, we are deeply uncomfortable with powerful women. In fact, we often don’t really like them.
 
 ---
 
@@ -82,4 +84,50 @@ It’s a concrete [fact](https://hbr.org/2018/06/research-women-ask-for-raises-a
 
 Women who [initiate negotiations](https://gap.hks.harvard.edu/social-incentives-gender-differences-propensity-initiate-negotiations-sometimes-it-does-hurt-ask) in the workplace are more likely to be penalized than their male counterparts.
 
-![](./images/negotaitespot.gif)
+![Gif animation of woman blowing dollar sign balloon as other dollar signs float up](./images/negotaitespot.gif)
+
+---
+
+![Photo of sportscast anchor Dale Hansen on set at ABC news](./images/DaleHansen.jpeg)
+“If you have a woman — like a co-anchor or a news director a station manager — I think it’s a fantastic day because they work cheaper, so that leaves more money for you and me,” Dale Hansen said on air, talking with meteorologist Pete Delkus. [(Oct 2020)](https://www.distractify.com/p/what-did-dale-hansen-say)
+
+---
+
+![Dave Chapelle on SNL](./images/dave_chappelle_snl.jpg)
+
+“Scariest part about that, one of the leading virologists in the world was sitting as close as you are to me, and she just watched him say it. Crazy. Her face was looking like, ‘He might be right.’ I saw that, I said, ‘Ooh, that’s why, that’s why women make half.' (audience groans) Did I trigger you? I don’t know what it is. Half, maybe 70 percent, whatever it is, it’s too much. I’m sorry, Lorne, I thought we were having a comedy show.” [(Nov 2020)](https://www.washingtonpost.com/arts-entertainment/2020/11/08/dave-chappelle-snl-monologue-trump/)
+
+---
+{{% section %}}
+
+# unpaid labor
+
+In the U.S., women spend around four hours a day on unpaid work compared with men’s 2.5  hours according to data from the [Organization for Economic Cooperation and Development](https://stats.oecd.org/index.aspx?queryid=54757). Those hours add up to 10.5 more hours per week and 546 more hours per year. 
+
+![Comic about man putting dishes in washing machine because he couldn't work dishwasher](./images/dishescomic.jpg)
+
+---
+
+"If American women earned minimum wage for the unpaid work they do around the house and caring for relatives, they would have made [$1.5 trillion](https://www.nytimes.com/interactive/2020/03/04/opinion/women-unpaid-labor.html) last year."
+
+---
+
+“These are hours that could be spent on income generation,” [said Nahla Valji](https://www.nytimes.com/programs/womens-issues/day-2), the senior gender adviser to the Secretary General of the United Nations. “It’s at the heart of the ‘motherhood penalty,’ wage inequality, structural biases in recruitment, and promotion of women and jobs.”
+
+---
+[Pandemic view...](https://www.nytimes.com/2020/05/06/upshot/pandemic-chores-homeschooling-gender.html)
+
+![Who is spending more gime home-schooling your children or helping them with distance learning? 80 percent women, 45 percent men](./images/homeschool.png)
+
+---
+
+
+# 70 percent of women said they were fully or mostly responsible [for housework during lockdown.](https://www.nytimes.com/programs/womens-issues/day-2)
+
+"With children out of school, day cares closed, community centers and camps shuttered, and the needs of the elderly and sick magnified, the responsibilities fell where they almost always do: on the shoulders of women. But this time the work wasn’t so easily ignored as male partners were on lockdown, too. Did it make a difference? Not so much."
+
+{{% /section %}}
+
+---
+
+In its [2017 Commission on the Status of Women](https://www.un.org/ga/search/view_doc.asp?symbol=E/CN.6/2017/3), the U.N. noted, “unpaid care and domestic work supports the economy and often makes up for lack of public expenditure on social services and infrastructure. In effect, it represents a transfer of resources from women to others in the economy.” 
