@@ -46,9 +46,9 @@ A polite lady must...
 {{% /section %}}
 
 ---
-# [Bitch](https://en.wikipedia.org/wiki/Bitch_(slang)#:~:text=Bitch%2C%20literally%20meaning%20a%20female,%2C%20weak%2C%20or%20cowardly%20man.)
+# Bitch
 
-literally meaning a female dog, a pejorative slang word for a person — usually a woman — who is belligerent, unreasonable, malicious, controlling, aggressive, or dominant. When applied to a man, bitch reverses its meaning and is a derogatory term for a subordinate, weak, or cowardly man.
+literally meaning a female dog, a pejorative slang word for a person — usually [a woman — who is belligerent, unreasonable, malicious, controlling, aggressive, or dominant.](https://en.wikipedia.org/wiki/Bitch_(slang)#:~:text=Bitch%2C%20literally%20meaning%20a%20female,%2C%20weak%2C%20or%20cowardly%20man.) When applied to a man, bitch reverses its meaning and is a derogatory term for a subordinate, weak, or cowardly man.
 
 ---
 
@@ -97,23 +97,17 @@ Women who [initiate negotiations](https://gap.hks.harvard.edu/social-incentives-
 {{% /section %}}
 
 ---
-Popular American Sportscaster on ABC
-# Dale Hansen
 
-“If you have a woman — like a co-anchor or a news director, or station manager — I think it’s a fantastic day because they work cheaper, so that leaves more money for you and me,” Dale Hansen said on air, talking with meteorologist Pete Delkus. [(Oct 2020)](https://www.distractify.com/p/what-did-dale-hansen-say)
+{{% section %}}
+
+"If American women earned minimum wage for the unpaid work they do around the house and caring for relatives, they would have made [$1.5 trillion](https://www.nytimes.com/interactive/2020/03/04/opinion/women-unpaid-labor.html) last year."
 
 ---
 
 American stand-up comedian
 # Dave Chappelle
 
-“Her face was looking like, ‘He might be right.’ I saw that, I said, ‘Ooh, that’s why, that’s why women make half.' (audience groans) Did I trigger you? I don’t know what it is. Half, maybe 70 percent, whatever it is, it’s too much. I’m sorry, Lorne, I thought we were having a comedy show.” [(Nov 2020)](https://www.washingtonpost.com/arts-entertainment/2020/11/08/dave-chappelle-snl-monologue-trump/)
-
----
-
-{{% section %}}
-
-"If American women earned minimum wage for the unpaid work they do around the house and caring for relatives, they would have made [$1.5 trillion](https://www.nytimes.com/interactive/2020/03/04/opinion/women-unpaid-labor.html) last year."
+“Her face was looking like, ‘He might be right.’ I saw that, I said, ‘Ooh, that’s why, that’s why women make half.' (audience groans) Did I trigger you? I don’t know what it is. Half, maybe 70 percent, whatever it is, it’s too much. I’m sorry, Lorne, I thought we were having a comedy show.” 
 
 ---
 
@@ -130,6 +124,15 @@ In the U.S., women spend around four hours a day on unpaid work compared with me
 [COVID 2020](https://www.nytimes.com/2020/05/06/upshot/pandemic-chores-homeschooling-gender.html)
 
 ![Who is spending more gime home-schooling your children or helping them with distance learning? 80 percent women, 45 percent men](./images/homeschool.png)
+
+---
+
+Popular American sportscaster on ABC
+# Dale Hansen
+
+“If you have a woman — like a co-anchor or a news director, or station manager — I think it’s a fantastic day because they work cheaper, so that leaves more money for you and me,” Dale Hansen said on air, talking with meteorologist Pete Delkus. 
+
+[(Oct 2020)](https://www.distractify.com/p/what-did-dale-hansen-say)
 
 ---
 
