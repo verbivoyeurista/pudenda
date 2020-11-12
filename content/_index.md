@@ -46,7 +46,7 @@ A polite lady must...
 {{% /section %}}
 
 ---
-# Bitch
+# [Bitch](https://en.wikipedia.org/wiki/Bitch_(slang)#:~:text=Bitch%2C%20literally%20meaning%20a%20female,%2C%20weak%2C%20or%20cowardly%20man.)
 
 literally meaning a female dog, a pejorative slang word for a person — usually a woman — who is belligerent, unreasonable, malicious, controlling, aggressive, or dominant. When applied to a man, bitch reverses its meaning and is a derogatory term for a subordinate, weak, or cowardly man.
 
@@ -97,16 +97,17 @@ Women who [initiate negotiations](https://gap.hks.harvard.edu/social-incentives-
 {{% /section %}}
 
 ---
-# Dale Hansen
 Popular American Sportscaster on ABC
+# Dale Hansen
 
-“If you have a woman — like a co-anchor or a news director a station manager — I think it’s a fantastic day because they work cheaper, so that leaves more money for you and me,” Dale Hansen said on air, talking with meteorologist Pete Delkus. [(Oct 2020)](https://www.distractify.com/p/what-did-dale-hansen-say)
+“If you have a woman — like a co-anchor or a news director, or station manager — I think it’s a fantastic day because they work cheaper, so that leaves more money for you and me,” Dale Hansen said on air, talking with meteorologist Pete Delkus. [(Oct 2020)](https://www.distractify.com/p/what-did-dale-hansen-say)
 
 ---
-# Dave Chappelle
-American stand-up comedian
 
-“Scariest part about that, one of the leading virologists in the world was sitting as close as you are to me, and she just watched him say it. Crazy. Her face was looking like, ‘He might be right.’ I saw that, I said, ‘Ooh, that’s why, that’s why women make half.' (audience groans) Did I trigger you? I don’t know what it is. Half, maybe 70 percent, whatever it is, it’s too much. I’m sorry, Lorne, I thought we were having a comedy show.” [(Nov 2020)](https://www.washingtonpost.com/arts-entertainment/2020/11/08/dave-chappelle-snl-monologue-trump/)
+American stand-up comedian
+# Dave Chappelle
+
+“Her face was looking like, ‘He might be right.’ I saw that, I said, ‘Ooh, that’s why, that’s why women make half.' (audience groans) Did I trigger you? I don’t know what it is. Half, maybe 70 percent, whatever it is, it’s too much. I’m sorry, Lorne, I thought we were having a comedy show.” [(Nov 2020)](https://www.washingtonpost.com/arts-entertainment/2020/11/08/dave-chappelle-snl-monologue-trump/)
 
 ---
 
