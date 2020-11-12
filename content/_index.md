@@ -89,7 +89,7 @@ What if you, [like me](https://www.nytimes.com/2019/08/27/us/likability-penalty.
 It’s a concrete [fact](https://hbr.org/2018/06/research-women-ask-for-raises-as-often-as-men-but-are-less-likely-to-get-them#:~:text=The%20true%20gender%20pay%2Dgap,likely%20to%20negotiate%20their%20salaries) that women earn less than men do. The true gender pay-gap is not known with certainty, but, when comparing equally qualified people doing the same job, most estimates by labor economists put it at 10% – 20%. 
 
 ---
-That's becauase 
+THAT'S BECAUSE 
 # women don't negotiate
 Women who [initiate negotiations](https://gap.hks.harvard.edu/social-incentives-gender-differences-propensity-initiate-negotiations-sometimes-it-does-hurt-ask) in the workplace are more likely to be penalized than their male counterparts.
 
