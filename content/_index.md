@@ -1,5 +1,5 @@
 +++
-title = "My presentation"
+title = "Pudenda Agenda"
 outputs = ["Reveal"]
 +++
 
