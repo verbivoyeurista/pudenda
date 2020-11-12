@@ -89,7 +89,8 @@ Women who [initiate negotiations](https://gap.hks.harvard.edu/social-incentives-
 
 ![Gif animation of woman blowing dollar sign balloon as other dollar signs float up](./images/negotaitespot.gif)
 
-{{ /% section %}}
+{{% /section %}}
+
 ---
 
 ![Photo of sportscast anchor Dale Hansen on set at ABC news](./images/DaleHansen.jpeg)
@@ -97,11 +98,10 @@ Women who [initiate negotiations](https://gap.hks.harvard.edu/social-incentives-
 
 ---
 
-![Dave Chapelle on SNL](./images/dave_chappelle_snl.jpg)
-
 “Scariest part about that, one of the leading virologists in the world was sitting as close as you are to me, and she just watched him say it. Crazy. Her face was looking like, ‘He might be right.’ I saw that, I said, ‘Ooh, that’s why, that’s why women make half.' (audience groans) Did I trigger you? I don’t know what it is. Half, maybe 70 percent, whatever it is, it’s too much. I’m sorry, Lorne, I thought we were having a comedy show.” [(Nov 2020)](https://www.washingtonpost.com/arts-entertainment/2020/11/08/dave-chappelle-snl-monologue-trump/)
 
 ---
+
 {{% section %}}
 
 # unpaid labor
@@ -119,12 +119,12 @@ In the U.S., women spend around four hours a day on unpaid work compared with me
 “These are hours that could be spent on income generation,” [said Nahla Valji](https://www.nytimes.com/programs/womens-issues/day-2), the senior gender adviser to the Secretary General of the United Nations. “It’s at the heart of the ‘motherhood penalty,’ wage inequality, structural biases in recruitment, and promotion of women and jobs.”
 
 ---
+
 [Pandemic view...](https://www.nytimes.com/2020/05/06/upshot/pandemic-chores-homeschooling-gender.html)
 
 ![Who is spending more gime home-schooling your children or helping them with distance learning? 80 percent women, 45 percent men](./images/homeschool.png)
 
 ---
-
 
 # 70 percent of women said they were fully or mostly responsible [for housework during lockdown.](https://www.nytimes.com/programs/womens-issues/day-2)
 
