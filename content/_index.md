@@ -146,3 +146,22 @@ Popular American sportscaster on ABC
 ---
 
 In its [2017 Commission on the Status of Women](https://www.un.org/ga/search/view_doc.asp?symbol=E/CN.6/2017/3), the U.N. noted, “unpaid care and domestic work supports the economy and often makes up for lack of public expenditure on social services and infrastructure. In effect, it represents a transfer of resources from women to others in the economy.” 
+
+---
+
+# 1,527 
+
+number of [women killed](https://www.nytimes.com/2019/04/12/us/domestic-violence-victims.html) by an intimate partner in 2017
+
+---
+{{% section %}}
+
+The motivations of men who commit mass shootings are often muddled, complex or unknown. But one common thread that connects many of them — other than access to powerful firearms — is a [history of hating women](https://www.nytimes.com/2019/08/10/us/mass-shootings-misogyny-dayton.html]), assaulting wives, girlfriends and female family members, or sharing misogynistic views online, researchers say.
+
+---
+
+[When Women are the Enemy: The Intersection of Misogyny and White Supremacy](https://www.adl.org/resources/reports/when-women-are-the-enemy-the-intersection-of-misogyny-and-white-supremacy)
+
+"Misogyny is a dangerous and underestimated component of extremism, and it shares alarming common ground with white supremacist ideology."
+
+---
